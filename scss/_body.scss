@@ -1,0 +1,19 @@
+div{
+    height: 50vh;
+    width: 100%;
+    background-color: aqua;
+    &:hover h3{
+        background-color: greenyellow;
+        font-size: 5rem;
+    }
+    p{
+        color: red;
+        span{
+            font-size: 2rem;
+
+            &:hover{
+                background-color: $FondoParaCosas;
+            }
+        }
+    }
+}

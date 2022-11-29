@@ -1,0 +1,20 @@
+{
+  "name": "gitcoder",
+  "version": "1.0.0",
+  "description": "Holaa!!",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGastonMedina/ProbandoGitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloGastonMedina/ProbandoGitHub/issues"
+  },
+  "homepage": "https://github.com/PabloGastonMedina/ProbandoGitHub#readme"
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  height: 50vh;
+  width: 100%;
+  background-color: aqua;
+}
+div:hover h3 {
+  background-color: greenyellow;
+  font-size: 5rem;
+}
+div p {
+  color: red;
+}
+div p span {
+  font-size: 2rem;
+}
+div p span:hover {
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
